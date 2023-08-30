@@ -1,0 +1,6 @@
+Deploying troops...
+---End of Day---
+Battles: 1
+---Movie Watcher---
+A movie watcher would enjoy an ambush on planet 0 with Sith at time 12 and Jedi at time 12 with a force difference of 0.
+A movie watcher would not see an interesting attack on planet 0.
